@@ -1,5 +1,5 @@
 import asyncio
-from xgroovy.search import scrape_videos
+from search import scrape_videos
 from xgroovy.download import download_video
 
 async def lol():

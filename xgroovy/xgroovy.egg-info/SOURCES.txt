@@ -1,9 +1,0 @@
-README.md
-setup.py
-tests/test.py
-xgroovy.egg-info/PKG-INFO
-xgroovy.egg-info/SOURCES.txt
-xgroovy.egg-info/dependency_links.txt
-xgroovy.egg-info/entry_points.txt
-xgroovy.egg-info/requires.txt
-xgroovy.egg-info/top_level.txt
